@@ -24,6 +24,10 @@
     </table>
   </c:if>
 
+  <hr/>
+
+  <b>Best Category:</b> ${result.bestCategory}
+
 
   </body>
 </html>

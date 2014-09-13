@@ -10,4 +10,6 @@ import java.util.Map;
 @Data
 public class ScoreyResult {
     private Map<String, Double> scores;
+
+    private String bestCategory;
 }

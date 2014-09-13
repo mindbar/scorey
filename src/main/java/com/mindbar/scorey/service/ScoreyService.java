@@ -1,5 +1,6 @@
 package com.mindbar.scorey.service;
 
+import com.aliasi.classify.Classified;
 import com.mindbar.scorey.model.ScoreyResult;
 import org.springframework.stereotype.Service;
 
@@ -22,6 +23,7 @@ public class ScoreyService {
             scores.put("Display", 6.1);
 
         result.setScores(scores);
+        result.setBestCategory(SentimentService.classifier.classify(query).bestCategory());
         return result;
     }
 }
