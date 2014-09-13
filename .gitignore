@@ -1,6 +1,6 @@
 .idea/
 /target
 *.class
-*.imr
 *.iml
+*.ipr
 *.iws
