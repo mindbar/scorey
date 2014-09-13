@@ -1,7 +1,7 @@
 <html>
   <head>
       <title>scorey</title>
-      <link rel="stylesheet" type="text/css" href="WEB-INF/css/style.css">
+      <link href="/resources/css/style.css" rel="stylesheet">
   </head>
   <body>
 
