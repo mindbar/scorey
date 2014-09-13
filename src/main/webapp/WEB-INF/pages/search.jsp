@@ -11,6 +11,8 @@
       <input id="searchbox" type="text" name="q" value="${query}">
   </form>
 
+  <hr/>
+
   <c:if test="${not empty query}">
     <table>
       <c:forEach var="e" items="${result.scores}">
@@ -22,7 +24,6 @@
     </table>
   </c:if>
 
-  <hr/>
 
   </body>
 </html>

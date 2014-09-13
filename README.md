@@ -7,5 +7,5 @@ Recomendation service for gadgets
 ```
 git clone git@github.com:mindbar/scorey.git
 mvn jetty:run
-firefox http://localhost:8080/scorey/
+firefox http://localhost:8080/
 ```
