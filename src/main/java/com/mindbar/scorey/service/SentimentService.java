@@ -5,12 +5,15 @@ import com.aliasi.classify.Classified;
 import com.aliasi.classify.DynamicLMClassifier;
 import com.aliasi.lm.NGramProcessLM;
 import com.aliasi.util.Files;
+import com.mindbar.scorey.util.StringUtils;
+import org.springframework.core.io.ClassPathResource;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.util.HashSet;
 
 /**
  * @author mishadoff
@@ -18,9 +21,24 @@ import java.net.URL;
 public class SentimentService {
     private static String[] categories = new String[]{"pos", "neg"};
     public static DynamicLMClassifier<NGramProcessLM> classifier;
+    public static HashSet<String> goodWordsSet = new HashSet<String>();
+    public static HashSet<String> badWordsSet = new HashSet<String>();
 
     public static void init() {
         classifier = DynamicLMClassifier.createNGramProcess(categories, 8);
+    }
+
+    public static void initPosNeg() throws IOException {
+        String goodWordsString = Files.readFromFile(new ClassPathResource("common/pos.txt").getFile(), "UTF-8");
+        String[] goodWords = StringUtils.tokenize(goodWordsString);
+        for (String s : goodWords) {
+            goodWordsSet.add(s);
+        }
+        String badWordsString = Files.readFromFile(new ClassPathResource("common/neg.txt").getFile(), "UTF-8");
+        String[] badWords = StringUtils.tokenize(badWordsString);
+        for (String s : badWords) {
+            badWordsSet.add(s);
+        }
     }
 
     public static void main(String[] args) throws IOException {
@@ -28,18 +46,6 @@ public class SentimentService {
         System.out.println("Start training...");
         train();
         System.out.println("Finished training...");
-
-       /* while (true) {
-            System.out.println("> ");
-            String input = new Scanner(System.in).nextLine();
-            if ("quit".equals(input)) {
-                System.out.println("Bye!");
-                break;
-            } else {
-                Classification c = classifier.classify(input);
-                System.out.println("Best category: " + c.bestCategory());
-            }
-        }*/
     }
 
     public static void train() throws IOException {

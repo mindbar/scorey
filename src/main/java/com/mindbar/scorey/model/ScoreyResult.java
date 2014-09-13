@@ -9,7 +9,7 @@ import java.util.Map;
  */
 @Data
 public class ScoreyResult {
-    private Map<String, Double> scores;
+    private Map<String, String> scores;
 
     private String bestCategory;
 }

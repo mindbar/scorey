@@ -52,6 +52,7 @@ public class ScoreyController {
     @PostConstruct
     public void init() {
         try {
+            SentimentService.initPosNeg();
             System.out.println(testProp);
             if (train) {
                 SentimentService.init();
@@ -65,17 +66,18 @@ public class ScoreyController {
     @RequestMapping(value = "search", method = RequestMethod.GET)
     public String search(
             @RequestParam(value = "q", defaultValue = "") String queryText,
-            ModelMap map) {
+            ModelMap map) throws Exception {
         ScoreyResult result = scoreyService.process(queryText);
         map.addAttribute("result", result);
         map.addAttribute("query", queryText);
+
         return "search";
     }
 
     @RequestMapping(value = "json/search", method = RequestMethod.GET)
     public @ResponseBody ScoreyResult searchJson(
             @RequestParam(value = "q", defaultValue = "") String queryText,
-            ModelMap map) {
+            ModelMap map) throws Exception {
         ScoreyResult result = scoreyService.process(queryText);
         return result;
     }
