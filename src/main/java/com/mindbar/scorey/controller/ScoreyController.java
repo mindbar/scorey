@@ -1,5 +1,6 @@
 package com.mindbar.scorey.controller;
 
+import com.mindbar.scorey.model.ScoreyResult;
 import com.mindbar.scorey.service.ScoreyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -26,6 +27,9 @@ public class ScoreyController {
     public String search(
             @RequestParam(value = "q", defaultValue = "") String queryText,
             ModelMap map) {
+        ScoreyResult result = scoreyService.process(queryText);
+        map.addAttribute("result", result);
+        map.addAttribute("query", queryText);
         return "search";
     }
 }
