@@ -58,16 +58,4 @@ public class SentimentService {
 
         }
     }
-
-    private static String resourceString(URL url) throws IOException {
-        System.out.println("URL:" + url.toString());
-        BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()) ,1024);
-        StringBuilder stringBuilder = new StringBuilder();
-        String line;
-        while ((line = br.readLine()) != null) {
-            stringBuilder.append(line).append('\n');
-        }
-        br.close();
-        return stringBuilder.toString();
-    }
 }
