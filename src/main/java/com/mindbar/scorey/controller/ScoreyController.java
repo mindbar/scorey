@@ -33,8 +33,9 @@ public class ScoreyController {
     @PostConstruct
     public void init() {
         try {
+            boolean b = false;
             SentimentService.init();
-            SentimentService.train();
+            if (b) SentimentService.train();
         } catch (IOException io) {
             System.out.println("[ERROR] Reading file");
         }
