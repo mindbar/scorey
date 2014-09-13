@@ -11,6 +11,8 @@ http://www.springframework.org/schema/context http://www.springframework.org/sch
     <mvc:resources mapping="/resources/**" location="/resources/" />
     <mvc:annotation-driven />
 
+    <context:property-placeholder location="classpath:app.properties" />
+
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix">
             <value>/WEB-INF/pages/</value>

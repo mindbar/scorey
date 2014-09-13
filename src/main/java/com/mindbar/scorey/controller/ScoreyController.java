@@ -1,12 +1,12 @@
 package com.mindbar.scorey.controller;
 
 import com.mindbar.scorey.model.Article;
-import com.aliasi.classify.DynamicLMClassifier;
 import com.mindbar.scorey.model.ScoreyResult;
 import com.mindbar.scorey.service.ArticleService;
 import com.mindbar.scorey.service.ScoreyService;
 import com.mindbar.scorey.service.SentimentService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 
 import javax.annotation.PostConstruct;
-import java.io.File;
 import java.io.IOException;
 
 /**
@@ -25,6 +24,12 @@ import java.io.IOException;
  */
 @Controller
 public class ScoreyController {
+
+    @Value( "${test.prop}" )
+    private String testProp;
+
+    @Value( "${sentimentService.train}" )
+    private boolean train;
 
     @Autowired
     private ScoreyService scoreyService;
@@ -47,8 +52,11 @@ public class ScoreyController {
     @PostConstruct
     public void init() {
         try {
-            SentimentService.init();
-            SentimentService.train();
+            System.out.println(testProp);
+            if (train) {
+                SentimentService.init();
+                SentimentService.train();
+            }
         } catch (IOException io) {
             System.out.println("[ERROR] Reading file");
         }
