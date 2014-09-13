@@ -1,0 +1,118 @@
+http://www.laptopmag.com/reviews/smartphones/apple-iphone5
+Apple iPhone 5 (Verizon Wireless) Review
+"It's the same thing with a bigger screen." "It doesn't have NFC." "Android phones have had 4G LTE for ages." Immediately after Apple announced the iPhone 5 ($199), lots of people started questioning whether Apple had done enough to stay in the smartphone vanguard. While these sentiments have some validity, the iPhone 5 does, in fact, have that "wow" factor. All you have to do is hold it in your hands. Actually, make that hand. You only need one.
+
+article continued below
+Despite sporting a bigger 4-inch display, Apple's sequel to the iPhone 4S is faster, sports a better camera and lasts longer on a charge. Plus, you get the goodies inside iOS 6, from Facebook integration and free turn-by-turn navigation (finally) to a fun new way to share photos. Is that enough? We put the Verizon version of the iPhone 5 to the test to see if it was worth the wait.
+
+
+
+Design
+iPhone 5Put simply, the iPhone 5 is a marvel of engineering. Apple stretched the screen from 3.5 inches to 4 inches while cramming in a higher-capacity battery and 4G LTE. The result is a design that weighs a mere 4 ounces and measures just 0.3 inches thick. Not only is the iPhone 5 the thinnest smartphone on the planet, it's about an ounce lighter than the iPhone 4S. Seriously, after just a few hours the last-generation iPhone felt heavy by comparison.
+
+Think about that for a second. At a time when other smartphones are ballooning in size, Apple delivered a bigger screen without bloating the design. In fact, the iPhone 5 is just as narrow as before, so you can easily type with one hand. We had to stretch our finger a bit to reach the power button, but that's a minor quibble.
+
+iPhone 5 HeadphonesAnother slight annoyance; the headphone jack is now on the bottom, which means you're better off putting the phone upside down in your pocket. The good news is that the included EarPods make it easy to adjust the volume and pause and skip tracks with their built-in controls.
+
+[More: Apple EarPod Headphones Review]
+
+Samsung Galaxy S III vs. iPhone 5Unlike the plastic Samsung Galaxy S III, the aluminum-and-glass iPhone 5 has a sturdier and more premium look and feel. Other fine details include a new sapphire crystal lens for the camera to prevent scratches and diamond cut beveled edges. Just like the iPhone 4S, the iPhone 5 is available in black and white, but the back has anodized aluminum, giving the design a two-tone look.
+
+Overall, Apple has also done an excellent job making the design of the iPhone 5 feel balanced despite the additional height. We actually felt more comfortable thumb typing with the iPhone 5 than the iPhone 4. Everything just feels right.
+
+Lightning Port
+Lightning PortThe most controversial aspect of the iPhone 5's body is its new Lightning port, which is 80 percent smaller than the 30-pin dock connector it replaces. On the plus side, the connector is reversible -- no more looking for the label when charging -- and its' really easy to insert (easier than microUSB).
+
+However, you'll need to spring for a $30 accessory to accommodate older accessories. In fact, some may prefer to buy more than one adapter for different locations, such as the car and home, which makes the price of this add-on tougher to swallow. Also note that Lightning is stuck at USB 2.0, those hoping for Thunderbolt or USB 3.0 speeds will be disappointed.
+
+Display
+iPhone 5 vs iPhone 4SIt's been supersized -- but only in one direction. Apple elongated the 3.5-inch Retina display of the iPhone 4S to 4 inches on the iPhone 5. At 1136 x 640 pixels, the iPhone 5 has the same pixel density as before, but makes room for more info on the screen along with an extra row of app icons. In other words, there's less scrolling. In the calendar, for example, you'll see your next five appointments instead of just three.
+
+CNN on the iPhone 5Apple is also working with developers to optimize their apps for the iPhone 5's larger canvas. The new CNN app, for instance, has a new landscape view that lets you swipe through stories horizontally, and Open-Table has a slicker interface that lets you swipe quickly through dining options at the bottom of the screen.
+
+The trade-off for this extra real estate is that apps that haven't been updated will sit in the middle of the screen, straddled by black bars. They work, but they don't look as good.
+
+The screen isn't just bigger; it's more beautiful. Boasting 44 percent greater color saturation results in more vibrant-looking photos, games and more. Plus, because Apple integrated the touch technology into the display itself, icons literally look painted on.
+
+When we looked at the same photo of the sky side-by-side with the iPhone 4S, the blue on the iPhone 5's image looked more vibrant. We then played Jimmy Kimmel's parody First Look: iPhone 5 video on both devices; the clip filled the screen in HQ mode on the 16:9 iPhone 5, while the iPhone 4 had a black bar underneath it. Regardless of the content, we found that the iPhone 5's screen exhibited truer blacks and better contrast. This is definitely a fantastic phone for watching movies.
+
+The iPhone 5's screen actually falls behind its predecessor in one respect though: brightness. The iPhone 5 registered 525 lux on our light meter, compared to 575 for the iPhone 4S. The HTC One X is actually just as bright as the new iPhone and has a larger and sharper 4.7-inch HD screen, assuming you don't mind the extra bulk.
+
+Audio
+iPhone 5 Music PlayerDespite the iPhone 5's thinner design, it's dual speakers on the bottom pump out plenty of sound. In fact, when playing The Shins' "Simple Song" on both the iPhone 5 and iPhone 4S, the iPhone 5 got considerably louder. The iPhone 4S sounded a little more hollow too. Both devices got harsh at maximum volume. Motorola's Droid RAZR line reigns supreme in this category.
+
+IOS 6 and Interface
+Siri Shows Sports ScoresThe brains of the iPhone 5 is iOS 6, which includes lots of new features that will make your life easier. The improved Siri is a great example. While out to dinner with some friends, I asked, "What are the AL East standings?," and Siri returned a complete chart. Siri also has other new tricks up her sleeve, such as the ability to book restaurant reservations via OpenTable and see what movies are playing around you. As with the iPhone 4S, Siri's recognition isn't always accurate, but she's a lot more useful than she used to be.
+
+Google definitely takes a backseat on the iPhone 5. While it's still the search engine of choice in Safari, YouTube has been banished as a preloaded app, and Apple has replaced the Google Maps app with its own. We like the cleaner, friendlier look of the navigation screen in Apple's app when receiving turn-by-turn spoken directions (from Siri, natch). And although it's not terribly practical, the 3D flyovers of cities are gorgeous. It all goes downhill from there.
+
+Where Google still rules is with its Street View feature and local transit directions. With iOS 6, you need to use a third-party app to know what subway to take to your next meeting. Worse, Apple's new Maps app has lots of outdated information and misspelled or misplaced locations. When we searched for Brio Tuscan Grille in a nearby mall, Maps returned a result that was for an animal hospital. Yikes.
+
+iPhone 5 FacebookOn the plus side, there is a ton of other useful stuff in iOS 6, including Passbook for keeping everything from plane tickets to coupons in one app. We especially like Shared Photo Streams for sharing multiple photos with friends and family in a few clicks. Friends and family can then like or comment on your pic, just like Facebook.
+
+Speaking of Facebook, the social network is now deeply woven into the OS, from contacts and calendar (be prepared to see a lot of birthdays) to the ability to post updates from Siri or Notification Center. In other words, Facebook has been elevated to the same status as Twitter.
+
+Even with all of these enhancements, though, iOS 6 seems stuck in the past. The home screens are just as static as in 2007, whereas Windows Phone offers more dynamic live tiles and Android has a huge selection of widgets. Android also has the edge when it comes to easier access to settings, more sharing options and quicker multitasking.
+
+For more on Apple's new mobile OS, see our full review of iOS 6.
+
+Performance
+The iPhone 4S certainly wasn't a slowpoke, but Apple ups the ante for the iPhone 5 with a new A6 processor. This chip promises up to double the overall performance and graphics power.
+
+Asphalt GameDuring our testing, the iPhone 5 was swifter than the iPhone 4S, though the performance advantage varied based on the task. For instance, the iPhone 5 opened the camera about a half second faster, but it fired up the "Trigger Fist" shooting game 6 seconds faster than the earlier model and "Lengend" (an Infinity Blade clone) loaded 10 seconds faster.
+
+In most benchmark tests, the iPhone 5 demonstrated a sizable advantage. The device was 2.5X faster than the iPhone 4S in Geekbench, which measures overall performance. In Linpack, which gauges floating point computing power, the iPhone 5 was over 4X faster.
+
+iPhone 5So what about graphics? When rendering multiple 3D cubes in the GLESView app, the iPhone 5 notched 59.3 fps, compared to 57.5 for the iPhone 4S (a modest difference). Then we tried the more comprehensive and demanding GLBenchmark app. The iPhone 5 scored 12 fps in the Trigonometric test, versus only 4.7 fps for the iPhone 4S.
+
+Bottom line: the iPhone 4S is faster, but you'll notice the biggest difference when using apps that really tax the A6 chip, like console-quality games.
+
+Over the course of our testing, we observed that the iPhone 5's backside became warm when using GPS and Playing games for more than 10 minutes. We'll update this review with specific temperature readings shortly.
+
+4G LTE
+iPhone 5 4G LTE Speedtest on VerizonThe iPhone 5 is faster in a much important way. Yes, Apple fans finally get true 4G speed. The LTE chip inside this device integrates voice and data functions on a single chip, which saves space while also increasing efficiency.
+
+As we've learned by using Android 4G LTE phones (as long as 18 months ago), having this tech on board boosts everything from Web surfing to downloading apps, music and large attachments. You can also make FaceTime calls over 4G LTE, though AT&T customers will need to sign up for a shared data plan to enjoy this perk.
+
+Using the Speedtest.net app, the iPhone 5 averaged a very fast 16.2 Mbps on Verizon Wireless' 4G LTE network. Upload speeds were just as impressive, at 9 Mbps. Both of these number exceed Verizon's claims. The device also loaded websites quickly, which will be a relief for those who have suffered with 3G iPhones for so long.
+
+The iPhone 5 loaded the full desktop version of NYTimes.com in only 5.5 seconds, the mobile version of ESPN in 3 seconds, and mobile CNN.com in 5.5 seconds. Laptopmag.com loaded in just 5.2 seconds. In the same location, the Verizon version of the Samsung Galaxy S III was slightly slower, loading all the same sites in 7.3, 5.9, 2.7 and 5.6 seconds, respectively.
+
+Apps
+OpenTableApple has done a nice job updating its apps for the iPhone 5's larger display. For instance, in the music app you can now see the song progress and timeline, and shuffle and repeat buttons, at the top of the screen. On the iPhone 4S you had to tap the display to see these options. And in the camera app you'll see a larger shutter button and a toggle for the video and camera that easier to activate because it's horizontal instead of vertical.
+
+It's going to take a while for developers to update the more than 700,000 apps in the App Store, the iPhone 5 is off to a promising start. The store highlights separate sections for iPhone 5 games (34 and counting) and other apps (32 and counting) right on the Featured page.
+
+Optimized titles of note include Galaxy on Fire 2 HD, Wild Blood, Sky Gamblers, Temple Run, and Asphalt 7: Heat. On the regular app front, high-profile choices include Facebook (which simply shows more content at once on the longer screen), CNN, Fliboard, Pinterest and MLB.com At Bat.
+
+Camera
+iPhone 5 CameraAlthough it has the same 8-megapixel resolution as before, Apple says the iPhone 5's camera now captures photos 40 percent faster and offers better low-light performance. Like Android-powered phones such as the Galaxy S III and HTC One X, you can also capture still images while recording video.
+
+The coolest new camera feature of the iPhone 5 is also available on the iPhone 4S with iOS 6: panoramic shooting. Apple makes it pretty easy to compose sweeping landscapes, although you have to have a steady hand. The resulting photo is a whopping 28 megapixels.
+
+iPhone 5 vs iPhone 4S PhotoWe tested the image quality of the iPhone 5 versus the iPhone 4S by taking a shot of a motorcycle. The iPhone 5's image looked crisper and had better contrast, while the iPhone 4S' shot looked more washed out. Both images had plenty of detail, but the iPhone 5 photo had more detail when we zoomed in.
+
+The iPhone 5 also trumped the Galaxy S III when we captured a shot of burnt orange flowers next to a pumpkin decoration. The iPhone 5 image wasn't quite as bright as we like, but it was clearer and the colors were more bold. The Samsung shot had a haze to it.
+
+Nevertheless, other smartphone makers are innovating more in terms of camera features. The Nokia Lumia 920's PureView camera, for instance, lets you animate certain parts of the frame using a cool new Cinemagraph lens. And both the Glaxy S III and HTC One X have a burst shot mode, which the iPhone 5 lacks.
+
+The iPhone 5's 1080p camcorder also impressed. A clip we shot of New York City traffic was smooth and detailed, without a hint of tearing or pixelation. The front HD FaceTime camera also did a better job of capturing our face indoors, with richer and warmer colors. Too bad the iPhone 5 picked up more wrinkles, too.
+
+
+
+Battery Life
+iPhone 5One of the reasons Apple CEO Tim Cook said the iPhone 4S didn't get 4G LTE was that he wasn't willing to compromise the design of the product. It would have also caused a major hit on battery life. The iPhone 5 has a slightly higher capacity battery of 1440 mAh (up from 1430 mAh) yet lasts longer on a charge than most 4G LTE phones.
+
+In the LAPTOP Battery Test, which involves continuous surfing over 4G at 40 percent brightness, the iPhone 5 lasted 7 hours and 13 minutes. That's longer than the Samsung Galaxy S III (6:55) and over an hour longer than the smartphone category average. The Sprint iPhone 4S running iOS 6 lasted 5:54. However, the Droid RAZR Maxx is still the endurance champ; it's 3,330 mAh battery lasted nearly 8.5 hours. We'll update this review with anecdotal battery life results shortly.
+
+Call Quality
+iPhone 5The iPhone 5's enhanced audio extends to phone calls and FaceTime calls, thanks to the inclusion of three microphones. You should also expect noise suppression. During a few test calls on Verizon's network, other callers said we came through clearly, and their voices sounded warm without that usual fuzziness. We also had no problem hearing a caller through the speakerphone with both windows down in a moving car.
+
+Bottom Line
+iPhone 5To say that the iPhone 5 is a highly polished version of the iPhone 4S is a back-handed compliment. Apple's sequel is simply the most well-rounded smartphone money can buy. It delivers all the upgrades iPhone owners were expecting--4G LTE, a bigger screen, better camera--inside a shockingly thin and light design that delivers long endurance. That's an accomplishment worthy of praise. Once you've held this device you'll be a believer. Even the most rabid Android fans should be impressed.
+
+iPhone 5What surprises us is that Apple released a Maps app that clearly wasn't ready for primetime. Siri had its own bugs too at launch, but a voice assistant is nowhere near as critical a tool for users. We hope to see a significant Maps upgrade in short order.
+
+Without question, there are other smartphones that do things better. The Samsung Galaxy S III has more innovative features, such as sharing via NFC, and its larger screen will simply be more inviting to some, despite the phone's girth. Ultimately, though, the iPhone 5 is the best smartphone for the masses. Apple continues to offer a better combination of design, apps, content, and ease of use than anyone else.
+
+- See more at: http://www.laptopmag.com/reviews/smartphones/apple-iphone5#sthash.eBllSClj.dpuf
