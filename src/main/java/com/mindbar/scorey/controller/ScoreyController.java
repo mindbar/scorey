@@ -10,6 +10,7 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.annotation.PostConstruct;
 import java.io.File;
@@ -47,5 +48,13 @@ public class ScoreyController {
         map.addAttribute("result", result);
         map.addAttribute("query", queryText);
         return "search";
+    }
+
+    @RequestMapping(value = "json/search", method = RequestMethod.GET)
+    public @ResponseBody ScoreyResult searchJson(
+            @RequestParam(value = "q", defaultValue = "") String queryText,
+            ModelMap map) {
+        ScoreyResult result = scoreyService.process(queryText);
+        return result;
     }
 }
