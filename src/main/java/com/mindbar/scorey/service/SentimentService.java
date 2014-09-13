@@ -5,18 +5,12 @@ import com.aliasi.classify.Classified;
 import com.aliasi.classify.DynamicLMClassifier;
 import com.aliasi.lm.NGramProcessLM;
 import com.aliasi.util.Files;
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.IOUtils;
-import org.springframework.core.io.ClassPathResource;
-import org.springframework.core.io.Resource;
-import org.springframework.util.ResourceUtils;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
-import java.util.Scanner;
 
 /**
  * @author mishadoff
