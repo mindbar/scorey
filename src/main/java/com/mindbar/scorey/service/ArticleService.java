@@ -3,6 +3,7 @@ package com.mindbar.scorey.service;
 import com.aliasi.util.Files;
 import com.mindbar.scorey.metrics.Metric;
 import com.mindbar.scorey.model.Article;
+import com.mindbar.scorey.model.ArticleMeta;
 import com.mindbar.scorey.util.StringUtils;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
@@ -10,7 +11,9 @@ import org.springframework.stereotype.Service;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by aleksandr on 13.09.14.
@@ -64,17 +67,29 @@ public class ArticleService {
         return new int[]{pos, neg};
     }
 
-    public double scoreForMetric(String device, Metric metric) throws Exception {
+    public List<ArticleMeta> scoreForMetric(String device) throws Exception {
         List<Article> articles = getArticlesByDevice(device);
-        int totalPos = 0;
-        int totalNeg = 0;
+        List<ArticleMeta> metas = new ArrayList<ArticleMeta>();
         for (Article a : articles) {
-            System.out.println("Processing article: " + a.getUrl());
-            int[] scores = processArticle(a, metric.getKey());
-            System.out.println("Scores: POS=" + scores[0] + " NEG=" + scores[1]);
-            totalPos += scores[0];
-            totalNeg += scores[1];
+            ArticleMeta meta = new ArticleMeta();
+                meta.setTitle(a.getTitle());
+                meta.setUrl(a.getUrl());
+                Map<Metric, Double> articleScores = new HashMap<Metric, Double>();
+            for (Metric m : Metric.values()) {
+                System.out.println("Processing article: " + a.getUrl().hashCode() + " for metric " + m.getKey());
+                int[] scores = processArticle(a, m.getKey());
+                int pos = scores[0];
+                int neg = scores[1];
+                double score = 5.0;
+                if (pos + neg > 0) {
+                    score = pos * 10.0 / (pos + neg);
+                }
+                articleScores.put(m, score);
+            }
+            meta.setArticleScores(articleScores);
         }
-        return totalPos * 10.0 / (totalPos + totalNeg + 0.001); // TODO handle no data
+        return metas;
     }
+
+
 }
