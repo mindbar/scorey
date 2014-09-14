@@ -1,14 +1,19 @@
 package com.mindbar.scorey.service;
 
+import com.aliasi.util.Files;
 import com.mindbar.scorey.metrics.Metric;
 import com.mindbar.scorey.model.Article;
+import com.mindbar.scorey.model.ArticleMeta;
 import com.mindbar.scorey.util.StringUtils;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by aleksandr on 13.09.14.
@@ -16,9 +21,13 @@ import java.util.List;
 @Service
 public class ArticleService {
 
-    public List<Article> getArtilesByDevice(String device) throws Exception {
+    public List<Article> getArticlesByDevice(String device) throws Exception {
         ArrayList<Article> articles = new ArrayList<Article>();
-        File folder = new ClassPathResource("devices/" + device).getFile();
+        ClassPathResource classPathResource = new ClassPathResource("devices/" + device);
+        if (classPathResource == null) {
+            throw new Exception("Not found training samples");
+        }
+        File folder = classPathResource.getFile();
         for (File file : listFilesForFolder(folder)) {
             articles.add(Article.parseFile(file));
         }
@@ -37,10 +46,13 @@ public class ArticleService {
         return files;
     }
 
-    public int[] processArticle(Article a, String category) {
+    public int[] processArticle(Article a, String category) throws IOException {
         String article = a.getText().toLowerCase();
         String[] articleTokens = StringUtils.tokenize(article);
         List<String> snippetWords = StringUtils.getSnippetTokens(category, articleTokens);
+
+        snippetWords.addAll(SentimentService.synonymsSet.get(category));
+
         int pos = 0;
         int neg = 0;
 
@@ -55,17 +67,30 @@ public class ArticleService {
         return new int[]{pos, neg};
     }
 
-    public double scoreForMetric(String device, Metric metric) throws Exception {
-        List<Article> articles = getArtilesByDevice(device);
-        int totalPos = 0;
-        int totalNeg = 0;
+    public List<ArticleMeta> scoreForMetric(String device) throws Exception {
+        List<Article> articles = getArticlesByDevice(device);
+        List<ArticleMeta> metas = new ArrayList<ArticleMeta>();
         for (Article a : articles) {
-            System.out.println("Processing article: " + a.getUrl());
-            int[] scores = processArticle(a, metric.getKey());
-            System.out.println("Scores: POS=" + scores[0] + " NEG=" + scores[1]);
-            totalPos += scores[0];
-            totalNeg += scores[1];
+            ArticleMeta meta = new ArticleMeta();
+                meta.setTitle(a.getTitle());
+                meta.setUrl(a.getUrl());
+                Map<Metric, Double> articleScores = new HashMap<Metric, Double>();
+            for (Metric m : Metric.values()) {
+                System.out.println("Processing article: " + a.getUrl().hashCode() + " for metric " + m.getKey());
+                int[] scores = processArticle(a, m.getKey());
+                int pos = scores[0];
+                int neg = scores[1];
+                double score = 5.0;
+                if (pos + neg > 0) {
+                    score = pos * 10.0 / (pos + neg);
+                }
+                articleScores.put(m, score);
+            }
+            meta.setArticleScores(articleScores);
+            metas.add(meta);
         }
-        return totalPos * 10.0 / (totalPos + totalNeg + 0.001); // TODO handle no data
+        return metas;
     }
+
+
 }
