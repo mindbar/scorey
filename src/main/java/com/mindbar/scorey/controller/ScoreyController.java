@@ -40,7 +40,7 @@ public class ScoreyController {
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index() {
         try {
-            List<Article> iphone5 = articleService.getArtilesByDevice("iphone5");
+            List<Article> iphone5 = articleService.getArticlesByDevice("iphone5");
             System.out.println(iphone5.size());
         } catch (Exception e) {
             e.printStackTrace();
