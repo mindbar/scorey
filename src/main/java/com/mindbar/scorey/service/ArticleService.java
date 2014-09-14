@@ -1,5 +1,6 @@
 package com.mindbar.scorey.service;
 
+import com.mindbar.scorey.metrics.Metric;
 import com.mindbar.scorey.model.Article;
 import com.mindbar.scorey.util.StringUtils;
 import org.springframework.core.io.ClassPathResource;
@@ -14,8 +15,8 @@ import java.util.List;
  */
 @Service
 public class ArticleService {
-    public List<Article> getArtilesByDevice(String device) throws Exception {
 
+    public List<Article> getArtilesByDevice(String device) throws Exception {
         ArrayList<Article> articles = new ArrayList<Article>();
         File folder = new ClassPathResource("devices/" + device).getFile();
         for (File file : listFilesForFolder(folder)) {
@@ -54,13 +55,13 @@ public class ArticleService {
         return new int[]{pos, neg};
     }
 
-    public double scoreForCategory(String device, String category) throws Exception {
+    public double scoreForMetric(String device, Metric metric) throws Exception {
         List<Article> articles = getArtilesByDevice(device);
         int totalPos = 0;
         int totalNeg = 0;
         for (Article a : articles) {
             System.out.println("Processing article: " + a.getUrl());
-            int[] scores = processArticle(a, category);
+            int[] scores = processArticle(a, metric.getKey());
             System.out.println("Scores: POS=" + scores[0] + " NEG=" + scores[1]);
             totalPos += scores[0];
             totalNeg += scores[1];

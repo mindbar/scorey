@@ -1,8 +1,8 @@
 package com.mindbar.scorey.service;
 
-import com.aliasi.classify.Classified;
-import com.mindbar.scorey.metrics.MetricConstants;
+import com.mindbar.scorey.metrics.Metric;
 import com.mindbar.scorey.model.ScoreyResult;
+import com.mindbar.scorey.util.FormatUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -21,9 +21,8 @@ public class ScoreyService {
     public ScoreyResult process(String query) throws Exception {
         ScoreyResult result = new ScoreyResult();
 
-
         Map<String, String> scores = new HashMap<String, String>();
-            scores.put("Battery", String.format("%.2f", articleService.scoreForCategory(query, MetricConstants.BATTERY)));
+            scores.put("Battery", FormatUtils.formatDouble(articleService.scoreForMetric(query, Metric.BATTERY)));
             scores.put("Price", "" + 9.2);
             scores.put("Performance", "" + 8.0);
             scores.put("Display", "" + 6.1);
