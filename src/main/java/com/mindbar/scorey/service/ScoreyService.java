@@ -27,16 +27,31 @@ public class ScoreyService {
         Map<String, String> scores = new HashMap<String, String>();
 
         double totalBattery = 0;
+        int totalBatteryCount = 0;
         double totalPerformance = 0;
+        int totalPerformanceCount = 0;
         double totalDisplay = 0;
+        int totalDisplayCount = 0;
         for (ArticleMeta am : meta) {
-            totalBattery += am.getArticleScores().get(Metric.BATTERY);
-            totalPerformance += am.getArticleScores().get(Metric.PERFORMANCE);
-            totalDisplay += am.getArticleScores().get(Metric.DISPLAY);
+            double bd = am.getArticleScores().get(Metric.BATTERY);
+            if (bd > 0) {
+                totalBattery += bd;
+                totalBatteryCount++;
+            }
+            double pd = am.getArticleScores().get(Metric.PERFORMANCE);
+            if (pd > 0) {
+                totalPerformance += pd;
+                totalPerformanceCount++;
+            }
+            double dd = am.getArticleScores().get(Metric.DISPLAY);
+            if (dd > 0) {
+                totalDisplay += bd;
+                totalDisplayCount++;
+            }
         }
-        totalBattery /= meta.size();
-        totalPerformance /= meta.size();
-        totalDisplay /= meta.size();
+        totalBattery /= totalBatteryCount;
+        totalPerformance /= totalPerformanceCount;
+        totalDisplay /= totalDisplayCount;
 
             scores.put("Battery", FormatUtils.formatDouble(totalBattery));
             scores.put("Performance", FormatUtils.formatDouble(totalPerformance));

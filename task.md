@@ -6,4 +6,4 @@
 - **DONE** Relation between metrics and keywords
 
 - **TODO** Crawler for CNET, Techcrunch, etc. (Nutch)
-- **TODO** More realtions data
+- **TODO** More relations data

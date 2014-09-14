@@ -80,7 +80,7 @@ public class ArticleService {
                 int[] scores = processArticle(a, m.getKey());
                 int pos = scores[0];
                 int neg = scores[1];
-                double score = 5.0;
+                double score = -1.0;
                 if (pos + neg > 0) {
                     score = pos * 10.0 / (pos + neg);
                 }
