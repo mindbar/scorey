@@ -23,7 +23,9 @@ public class ScoreyService {
     public ScoreyResult process(String query) throws Exception {
         ScoreyResult result = new ScoreyResult();
 
-        List<ArticleMeta> meta = articleService.scoreForMetric(query);
+        String mergeQuery = query.replaceAll(" ", "").replaceAll("\\+", "").toLowerCase();
+
+        List<ArticleMeta> meta = articleService.scoreForMetric(mergeQuery);
         Map<String, String> scores = new HashMap<String, String>();
 
         double totalBattery = 0;
@@ -56,8 +58,6 @@ public class ScoreyService {
             scores.put("Battery", FormatUtils.formatDouble(totalBattery));
             scores.put("Performance", FormatUtils.formatDouble(totalPerformance));
             scores.put("Display", FormatUtils.formatDouble(totalDisplay));
-
-        articleService.getArticlesByDevice(query);
 
         result.setScores(scores);
         result.setArticles(meta);
