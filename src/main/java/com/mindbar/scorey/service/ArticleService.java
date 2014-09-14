@@ -87,6 +87,7 @@ public class ArticleService {
                 articleScores.put(m, score);
             }
             meta.setArticleScores(articleScores);
+            metas.add(meta);
         }
         return metas;
     }
