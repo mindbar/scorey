@@ -28,3 +28,30 @@
 - Split `Article` to tokens `List<Token>`
 - Loop tokens and if `Token` is one of the keywords for metric take its `20` surrounding tokens as fragment `Fragment`
 - Proceed loop to get `List<Fragment>`
+
+## Data
+
+- Reviews
+  - [Cnet Reviews](http://www.cnet.com) 
+  - [The Verge](http://www.theverge.com/reviews)
+  - [Techcrunch](http://techcrunch.com/reviews/)
+- Market comments
+
+
+
+## Improvements
+
+- Extract fragments more clever, parse sentence into the tree, take phrase or sentence
+- Weights for the words (*screen: clear, crystal clear, super crystal clear*)
+- Rule-based approach
+- Exception rules
+- Stemming, lemmatization
+- Handle comparisons! (*Nexus5 screen is better than iPhone5*)
+- Handle negatives! (*had no issues with the screen*)
+
+## Points
+
+- Aggregated score is more accurate better than based on some limited set
+- Article drills give ability to find *very* bad and *very* good articles.
+- Maybe 1 negative article among 100 positives describe some really negative point *for you*
+
