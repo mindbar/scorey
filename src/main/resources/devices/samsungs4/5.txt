@@ -1,0 +1,102 @@
+http://www.computerworld.com/article/2496587/smartphones/samsung-galaxy-s4-deep-dive-review--a-real-world-evaluation.html
+Samsung Galaxy S4 deep-dive review: A real-world evaluation
+
+Some things in this world need no introduction. The Samsung Galaxy S4 is not one of those things.
+
+Sure, "Galaxy S" has practically become a household name. And sure, you've probably heard all sorts of hype about this latest Samsung model. But trust me: There's more to the Galaxy S4 than meets the eye.
+
+I've been using the Galaxy S4 in place of my own personal device for well over a week now -- and I can confidently say that while the device has its share of eye-catching features, it isn't the end-all Android phone for everyone. Don't get me wrong: The Galaxy S4 has plenty of attractive qualities. But it also makes some serious compromises. The question is whether it all adds up to a package that makes sense for you.
+
+So join me on this detailed tour of the Galaxy S4 and see what the device is like to use in the real world. By the time we're done, I suspect you'll know if your future belongs with this phone -- or in a galaxy far, far away.
+
+(The Galaxy S4 is available now on AT&T for $200 with a new two-year contract, Sprint for $250 with a new two-year contract, T-Mobile for $150 down and a two-year payment plan, and U.S. Cellular for $200 with a new two-year contract. It'll launch on Verizon Wireless on May 30 for $200 after a $50 mail-in rebate and with a new two-year contract.)
+Body and sound
+
+One thing's for sure: For better or for worse (depending on your perspective), the Galaxy S4 looks and feels distinctly like a Samsung phone. At first glance, you might even mistake it for last year's Galaxy S III; the phone shares the same basic size, shape and form as its predecessor.
+The Galaxy S4 is actually slightly narrower and thinner than last year's model, at 2.7 x 5.4 x 0.31 in. It's a hair lighter, too, weighing 4.6 oz. compared to the GSIII's 4.7 oz. body. Beyond that, the phone is a bit less curved than Samsung's previous-generation device, with a flat back and more square-like shape.
+
+But you'd really have to be looking closely to notice those differences. In terms of design, the Galaxy S4 is very much in line with what we've seen from Samsung before, with a plastic-centric construction and almost toy-like feel. The phone's back has a shiny, candy-shell appearance; pull on it from the right spot and you'll realize it's actually a thin panel that peels away to reveal the phone's internal battery compartment.
+
+The benefit of the plastic casing is that it allows you to access and optionally replace the battery; it also makes for a lightweight and relatively durable frame. The downside is that it makes the phone look and feel rather cheap next to more elegantly constructed devices like the all-aluminum HTC One and glass-centric Nexus 4.
+
+(The Galaxy S4 is available in either "Black Mist" or "White Frost," by the way -- and yes, those colors are basically just black and white.)
+
+Comparisons aside, the Galaxy S4 feels nice if a bit insubstantial in the hand. The back panel is slick to the touch but not difficult to hold. The rear camera creates a slight bump in the phone's back, as does a small speaker grille located at the bottom-left of the device.
+
+The Galaxy S4 has a silver-colored trim around its edges that's made to look like metal (though it, too, is actually plastic). The left edge holds a silver-colored volume rocker while the power switch sits on the phone's top-right side -- a natural position that's easy to find with your fingers. The top of the phone houses a 3.5mm headphone jack, while the bottom holds a micro-USB port that doubles as an HDMI-out with the use of a standard MHL adapter.
+
+The Galaxy S4's speaker -- housed behind that aforementioned single grille on the device's back -- is adequate but underwhelming: Audio played through the phone sounds hollow and tinny and tends to be muffled by your hand (if holding the phone) or a table (if the phone is sitting flat on a surface). That level of quality is pretty typical for a smartphone speaker, but the superb front-facing stereo speakers on the HTC One, which I reviewed previously, left me a bit spoiled and expecting more.
+Display
+
+FEATURED RESOURCE
+
+PRESENTED BY SCRIBE SOFTWARE
+10 Best Practices for Integrating Data
+Data integration is often underestimated and poorly implemented, taking time and resources. Yet it
+LEARN MORE
+Samsung's Galaxy S4 boasts a 5-in. 1080p Super AMOLED display. That's quite a boost from the Galaxy S III's 4.8-in. 720p display; Samsung managed to shrink down the device's bezels to make space for the larger screen while maintaining the same basic frame size.
+
+At 441 pixels per inch, the Galaxy S4's display looks quite good: Colors are bold and brilliant, images are pleasantly crisp and text is sharp and easy to read. The screen is somewhat oversaturated but noticeably less so than with past Samsung devices. Like most Samsung products, the phone's autobrightness mode -- which is activated by default -- is rather wonky and tends to keep the display too dim regardless of your environment; in order for the screen to look its best, you'll need to disable that setting and manually set the brightness level yourself.
+
+The Galaxy S4's pixels-per-inch measurement, it's worth noting, is slightly less than that of the HTC One -- but we've reached the level here where such a difference isn't really noticeable to the human eye. What is noticeable is the difference between the AMOLED display technology Samsung uses and the LCD technology HTC employs.
+
+The Galaxy S4's AMOLED screen has deeper, truer blacks but less pure-looking whites than the One's LCD display. The GS4's screen also suffers in sunlight: While the One's LCD panel remains perfectly viewable even in the most glary conditions, the Galaxy S4's AMOLED display is often difficult to see outdoors and practically useless in direct sun.
+
+One area where the Galaxy S4's screen really shines is in pressure sensitivity: The phone has a somewhat hidden "high-touch sensitivity mode" that -- if you can manage to find it -- will allow you to use the device's touchscreen with gloves on. I tested it using medium-thickness winter gloves and found it worked fairly well; the screen's responsiveness was a bit hit and miss, but considering most smartphones won't recognize glove-covered input at all, the capability will be a welcome addition for anyone in a cold climate.
+
+The button factor
+
+System navigation buttons are a key part of the Android experience -- and while Google moved to a virtual, on-screen approach for such functions with its Android 4.0 release in 2011, Samsung continues to stick with a dated and rather peculiar hybrid button configuration on the Galaxy S4.
+
+For folks who are used to Samsung devices, the phone's physical Home button flanked by capacitive Menu and Back keys won't be much of a shock. But compared to the native Android experience, the setup presents some significant disadvantages.
+
+The first relates to Samsung's decision to include the Menu button -- an element Google removed from the platform at the start of the 4.0 era. The old-style Menu button was eliminated for a specific reason: On button-free devices, a special onscreen icon signals the presence of functions related to the OS or to specific applications -- functions like accessing advanced settings in Gmail, requesting a desktop version of a website in Chrome, or viewing your list of installed apps in the Play Store. In Samsung's setup, there's nothing to let you know when those options are available unless you think to tap the Menu button at the right time.
+
+Samsung's setup causes some core system functions to be similarly hidden, like the app switching tool -- a useful utility that lets you jump directly from one application to another. In devices that follow Google's design recommendations, that tool is accessible via a persistent on-screen icon; on the Galaxy S4, you have to long-press the physical Home button to find it -- an action that won't be obvious to most users.
+
+Philosophical matters aside, the Galaxy S4's capacitive keys are frequently not lit up during use and thus impossible to see. And the mix of physical and capacitive buttons creates an awkward usage scenario that's anything but ideal: As I noted when reviewing the Galaxy S III, once you get used to gently touching the capacitive buttons to activate them, having to forcefully press the adjacent physical home button is jarring.
+
+Sounds like a lot of nitpicking, I know -- but all it takes is 10 minutes with a device that follows Google's Android 4.x-level design guidelines to see how big of a difference these seemingly small details make in the overall user experience.
+Under the hood
+
+The U.S. model of Samsung's Galaxy S4 runs on a cutting-edge Qualcomm Snapdragon 600 1.9GHz quad-core processor along with 2GB of RAM. With that sort of horsepower, I've been surprised to see that the phone's performance suffers from subtle but noticeable hiccups.
+The GS4's system animations are frequently jerky, for instance -- like when the phone is returning from an app to the home screen -- and some actions take far longer than they should to process. I've counted as many as eight to nine seconds after tapping a folder in the Gallery before it actually opens. And these things haven't been isolated, one-time occurrences; they've happened regularly, regardless of what other services the phone has been running or how much time has passed since a restart.
+
+What's most baffling is the fact that the HTC One, which I found to have near-flawless performance, uses the same exact processor -- clocked slightly lower, in fact -- and the same amount of RAM as well. The only logical conclusion I can draw is that something having to do with Samsung's software is gumming up the works.
+
+To be clear, the Galaxy S4's performance isn't all bad -- for the most part, apps usually load quickly, Web browsing is swift and smooth and the system doesn't feel terribly sluggish -- but for a flagship phone with this level of hardware, any amount of jerky or lag-laden performance is disappointing.
+The Galaxy S4 does do well when it comes to stamina: The phone packs a removable 2,600mAh battery that's generally provided ample juice to get me through the day. Results will obviously vary based on what you're doing, but with a few short voice calls combined with scattered Web browsing, social media activity, camera use, audio streaming and the occasional video streaming (about 2.5 to 3 hours of total on-screen time), I've found I can usually squeeze in around 13 to 14 hours of use before the phone starts giving me low battery warnings.
+The Galaxy S4 ships with 16GB of internal storage space, which -- after factoring in the operating system and various preinstalled applications -- leaves you with just under 10GB of actual usable space. (Both 32GB and 64GB models are also expected to be available from some U.S. carriers, though specific plans for their release have yet to be announced.) The GS4 has an SD card slot as well, allowing you to add up to 64GB of external space.
+
+In terms of data connectivity, the Galaxy S4 supports both LTE and HSPA+ networks. If you're using the phone on AT&T or T-Mobile, it'll connect to LTE by default but automatically drop down to HSPA+ when you're in an area without LTE coverage. On Sprint and Verizon, the phone will resort to the carriers' far slower 3G-level networks when LTE isn't available.
+
+I found voice quality on the Galaxy S4 unit I tested -- a Sprint-connected model -- to be A-OK: I could hear people loud and clear, and those with whom I spoke said my voice was easy to hear and no more annoying than usual.
+
+The Galaxy S4 does support near-field communication (NFC) for contact-free payments and data exchanges. Despite some initial reports to the contrary, however, the phone does not provide native support for wireless charging; Samsung says a special back plate will be sold separately that can add such functionality to the phone, but the company is not providing any specific release date or price for that accessory as of now.
+
+Cameras
+Want megapixels? The GS4's got 'em: The phone's rear camera has a whopping 13 megapixels -- but as we've seen with the HTC One, more megapixels doesn't necessarily mean more quality.
+
+The good news for the Galaxy S4 is that its camera is capable of capturing some great-looking images. The GS4's photos aren't always completely true to life in coloring, but in most lighting conditions, they're sharp-looking and well-suited for sharing or physical printing. To my eye, HTC seems to have a slight edge in overall quality, but the GS4 generally holds its own and maintains a close race.
+
+The exception is photos taken in low-light environments: The Galaxy S4, unlike the One, struggles to capture much of anything in very dim conditions. The difference between the two phones in that regard is immense.
+
+(You don't have to take my word for it: Click over to my Galaxy S4 vs. HTC One camera gallery to see side-by-side samples and compare for yourself.)
+
+The high megapixel value means the GS4's images are large -- up to 4128 x 3096 pixels in size. Those dimensions allow you to zoom in closely to images; they also open the door to larger physical prints (the One's photos, in my experience, started showing subtle quality loss around the 8 x 10 mark when printed). On the downside, larger dimensions mean files take up more storage space and will take longer to transfer to cloud backup services or social networks.
+
+Samsung's Galaxy S4 Camera app is easy to use and packed with features -- some of them interesting and some just plain silly. One mode allows you to create animated GIFs from photos, for instance, while another lets you take a series of photos and then pick the best face from each individual person in your group to get a final image in which everyone is smiling. Both options work surprisingly well, though it takes a little practice to get good at them.
+
+The same can be said for the GS4's Eraser mode, in which the camera captures five consecutive photos in order to let you "remove" an unwanted object from the background. The effect works well enough, but you'd have to think ahead to enable it; if you're taking photos in any other mode and fall victim to an unwanted photo intruder, you're going to be out of luck.
+
+Other Galaxy S4 camera features sit more on the gimmicky side of the spectrum -- like a Drama mode that allows you to capture multiple photos of a moving subject and merge them together into a single Sports Illustrated-like action sequence. It sounds neat in theory, but I found it works only with multiple attempts and when the action is carefully staged for your benefit.
+Then there's the really silly stuff, like Sound and Shot mode -- an option that lets you record up to nine seconds of audio to go along with a still picture. The audio has to be recorded at the time of capture and can't be exported into any standard format, meaning you can only play it back on your phone or another Galaxy S4 device. In other words, it's kind of like a video -- which the Galaxy S4 can capture at 1080p quality -- only in this case, it's using a still picture instead of moving images and audio no one else will be able to hear.
+
+Equally gimmicky is the GS4's Dual Camera mode, which allows you to add a small floating photo of your face from the phone's 2-megapixel front camera onto an image you capture simultaneously with the rear camera. The photo of your face is superimposed over the main image in a small, cheesy-looking frame. I'm not sure what to say about that beyond a short and simple: "Why?"
+
+The Dual Camera function can also be used for video chatting, but only if you're chatting with people on Samsung's proprietary ChatOn service -- which was nowhere to be found on my review unit.
+
+Also curiously missing from the mix is Google's Photo Sphere -- a useful feature of the current Android platform that lets you capture interactive 360-degree images and share them with friends. For some reason, Samsung has stripped this functionality from the GS4's anatomy.
+
+
+
