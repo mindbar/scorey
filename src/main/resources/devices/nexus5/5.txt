@@ -1,0 +1,42 @@
+http://www.gsmarena.com/lg_nexus_5-review-1011.php
+LG Nexus 5 review: Back to the future
+
+Introduction
+Nexus phone releases are timed to let Google have the last word - and what a way to have it! A phone that matches any flagship on specs and premieres the latest OS version, but costs barely half as much as some of them. The Nexus 5 promises a great finale to yet another exciting smartphone season and it's not only the droids that stand to attention.
+This could have been a deja-vu moment for everybody but the fifth gen Google phone will probably have to work harder than ever. There's already a bunch of Snapdragon-800-powered Android flagships, while Qualcomm's latest is ticking inside Windows Phone-powered devices by Nokia too and Apple has the new 64-bit A7 chipset.
+On a second thought, Nexus phones have never been too keen on getting into the skirmish, keeping their distance, aloof and somewhat out of touch, nothing to prove to anyone. The best of Google on your homescreen - that's what it's all about - and at a price that's almost too good to be true.
+
+The search giant is partnering with LG for a second year in a row. Whether the Koreans are offering the best production cost or both sides were happy with the Nexus 4, it's a choice we don't mind at all. Anyway, Android 4.4 KitKat on a five-inch full-HD screen, powered by a Snapdragon 800 is a package no one would say not to.
+Check out the key specs to see what we're on about.
+Key features
+Quad-band GSM/GPRS/EDGE support
+Penta-band 3G with HSPA; LTE cat3
+4.95" 16M-color 1080p True HD IPS Plus FullHD capacitive touchscreen
+Corning Gorilla Glass 3 display protection
+Android OS v4.4 KitKat
+Quad-core 2.3 GHz Krait 400 CPU, 2 GB RAM, Adreno 330 GPU, Qualcomm Snapdragon 800 chipset
+8MP autofocus camera with LED flash, geotagging, optical image stabilization, photo sphere, 1080p video recording @ 30fps with continuous autofocus and stereo sound; HDR mode, Dual recording, optical image stabilization
+1.3 MP front-facing camera
+16GB/32GB of built-in storage
+microUSB port, USB host support, USB on-the-go, SlimPort TV-out
+Bluetooth v4.0
+NFC
+Wi-Fi a/b/g/n/ac, Wi-Fi Direct and DLNA
+GPS with A-GPS, GLONASS
+Standard 3.5 mm audio jack
+Voice commands
+Accelerometer and proximity sensor
+Active noise cancellation with dedicated mic
+2300mAh Li-Po battery, wireless charging
+Main disadvantages
+Non-expandable storage
+Poor video and audio codec support out of the box
+Non user-replaceable battery
+Comparatively poor battery life (except for calls)
+Loudspeaker is on the quiet side
+Limited availability at launch
+Although there's almost no physical resemblance to back it up, the Nexus 5 is based on the LG G2 and that's not a coincidence. The Nexus 4 last year was based on the Optimus G, so history's clearly repeating itself. At least as far as what's under the hood.
+Otherwise, the Nexus 5 has one of the most understated exterior designs a flagship smartphone has ever had. It's not an attention-grabber like the iPhone 5s, the HTC One or the Xperia Z1, as if wanting to underline that what matters is inside.
+
+The latest major release of Android as usual premieres on a new Nexus phone. The Nexus 5 runs Android 4.4 KitKat, which brings even tighter OS integration with Google services. There are a number of other improvements and hints at what's to come. But before we get to that, we'll focus on the Nexus 5's build and finish. The Android 4.4. KitKat overview will follow right after, so without further ado, see you after the break.
+Update, January 24: We heard that the Android 4.4.2 greatly improves the camera so we decided to test it out. Check out page 9 to see how it stacks up against the original 4.4 version.
