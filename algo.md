@@ -35,6 +35,7 @@
   - [Cnet Reviews](http://www.cnet.com) 
   - [The Verge](http://www.theverge.com/reviews)
   - [Techcrunch](http://techcrunch.com/reviews/)
+  - [Engdadget](http://www.engadget.com/)
 - Market comments
 
 

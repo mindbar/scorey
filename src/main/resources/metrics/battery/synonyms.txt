@@ -1,1 +1,4 @@
-accumulator charge
+accumulator
+charge
+power
+capacity
