@@ -1,0 +1,116 @@
+http://gadgets.ndtv.com/mobiles/reviews/samsung-galaxy-s4-review-364068
+Samsung Galaxy S4 review
+
+Expectations were sky high when Samsung announced the Galaxy S4, since the South Korean giant had to better its very own offering, the Galaxy S III, which not only ruled the Android world, but also went on to become one of the best selling smartphones of all times. 
+
+The company unveiled the Galaxy S4 amidst much fanfare and did not disappoint in terms of upping the game in terms of hardware specifications, which included an octa-core processor and a big bright high-definition screen. It also endowed the phone with some unique 'smart' features and added all sorts of sensors and motion detection controls. 
+
+However, the phone doesn't look much different from its predecessor; though it fits a larger screen in an even more compact form factor and comes with a more refined build. Some believe that the lack of cosmetic changes may harm the phone's prospects. So is the Galaxy S4 the best phone that money can buy? Is it a worthy upgrade if you already own a Galaxy S III? We try to answer these and other questions.
+
+Build/ Design
+As we mentioned earlier, the Galaxy S4 looks very similar to the Galaxy S III. Someone may even take them for the same phone from a distance. However, if you compare the two at close quarters, you'll notice that the S4 is thinner and sleeker.
+
+Just like its predecessor, the phone is built from polycarbonate (read plastic) materials and doesn't feel alluring when compared to the likes of the iPhone 5 and HTC One. In fact, the plastic doesn't compare favourably with Nokia's Lumia range either.
+
+From the front, the Galaxy S4 is not beveled above and below the screen and is flatter compared to the Galaxy S III. The phone's front panel is surrounded by a chrome frame, which gives a premium feel to the otherwise staid form factor.
+The phone is available in two colours - Black Mist and White Frost, and we got a Black Mist phone as our review unit. The phone doesn't feel bulky and for a device that packs in a 5-inch screen, the Galaxy S4 feels more like a phone and less like a phablet thanks to its narrow frame and thinner bezel. 
+
+The front of the phone still features a physical Home button and two capacitive touch buttons for Menu and Back controls. The different sensors, front camera, notification light and earpiece grill sit above the screen.
+
+You see a power button on the right side of the phone, volume rocker on the left, a 3.5mm headset jack and Infrared receiver on the top and Micro-USB port at the bottom. We like the fact that Samsung has placed the power button on the side and not on the top, in line with other large screen phones. 
+
+The back of the phone features the 13-megapixel-camera lens, with the LED flash right below it. The back still has that pseudo textured finish on the glossy plastic surface that attracts a lot of fingerprints. The Indian version of the Galaxy S4 doesn't feature the Galaxy S4 branding at the back. There's a small speaker outlet towards the bottom.
+The back is removable and unfortunately you actually get to experience how flimsy the build is when you remove the back cover. The SIM card, microSD card slot, NFC module and battery are hidden inside. Samsung has been able to please people who advocate the use of a removable battery and memory card slot, but we must confess to be fans of the unibody designs.
+
+Display
+The year 2013 has seen phone makers like HTC and Sony offering HD screens with their flagship smartphones. So how could Samsung stay behind? The Galaxy S4 comes with a 5-inch full-HD Super AMOLED display with a resolution of 1080x1920 pixels packing 441 pixels per inch. 
+
+While we weren't too impressed with the Galaxy S4's build, the moment we turned the phone on, we were smitten by its vibrant display. It's among the best displays we've seen so far. 
+
+While AMOLED displays are usually known to render a little over-satuarated colour, Samsung offers what it calls, Adapt Display, to optimise colours according to ambient light conditions. You can choose between four manual modes (Dynamic, Standard, Professional Photo and Movie) and seven automatic modes if you select the Adapt Display option.
+
+We found that text, images and icons appear extremely sharp. Reading text and browsing the web was a joyful experience. Once you get used to an HD display, it's hard to go back.
+
+The display was not very reflective and under sun visibility was great. The viewing angles on the phone are excellent.
+
+While the HTC One offers more pixels per inch on its display, we couldn't notice much difference between the displays of the two phones on that front.
+
+Software/ User Interface
+The Samsung Galaxy S4 runs Android 4.2.2 Jelly Bean, the latest iteration of the OS and TouchWiz Nature UX, Samsung's own UI that includes custom apps in addition to a skinned interface. 
+While some people prefer stock Android to any kind of skinning, Samsung's TouchWiz UI has been panned for employing big, glossy and cartoon-like icons and menus. The intent might be to make the UI user-friendly, but it ends up looking anything but pleasant. The Galaxy S4's HD screen, however, makes it look tolerable.
+
+Thanks to Samsung shipping the Galaxy S4 with Android 4.2, the phone gets lock screen widgets. Although these are not enabled by default, users can place select third party widgets, in addition to a choice between access to their favourite apps and camera. Users can also enable lock screen shortcuts that allow them to unlock directly into their respective apps. The phone offers a choice between the familiar Ripple effect and the new Light effect for the unlock animation.
+
+The phone offers up to seven home screens that can be populated with widgets and app shortcuts or folders. The pinch-in gesture lets you add or remove home screens. 
+
+The app plus widgets drawer lets you arrange app shortcuts as per your own preference or alphabetically. 
+
+The drop down notification tray features a settings shortcut and a clear all notifications button, along with expandable notifications (expanded with the two finger pull gesture). Toggles for 20 settings are also located on the tray - which makes it look rather silly albeit very convenient - and you can choose to scroll through them horizontally or expand to get a grid of all the settings on one screen.
+One can navigate the phone through the Back and Menu capacitive touch buttons and the Home physical key. The Home button on long press takes you to the app switcher and you can fire up the task manager, kill all apps or access Google now through the shortcuts offered with the task switcher. Double pressing the Home key launches S-Voice, Samsung's voice assistant. Long pressing the Menu key also launches Search. 
+
+Samsung also offers some of its pre-loaded apps including S Planner, Voice Recorder, ChatOn messaging app, Samsung Apps app store, Samsung Hub content store, Samsung Link for transferring and syncing content to other devices via cloud services like Dropbox, WatchON - a universal remote control software that also offers program guide functionality, S Translator, Optical Reader, S Memo, S Health, Story Album and Group Play.
+
+Samsung Hub is a content store that offers video, books, games and learning content (in the Indian market). All content stores are integrated in one central Samsung Hubs app as well as available through individual Video Player and Music player apps.
+
+S Health is a fitness-tracking app where you can create your health profile, set goals and keep count of your workout regimen. It also detects the ambient temperature and humidity through the phone's built in sensors
+The WatchOn app allows you to use the phone's IR blaster as a universal remote. You can configure it to work with televisions, set top boxes, DVD players and other AV equipment. We were able to use it with Samsung and Toshiba TVs and Dish TV's Zenega and Tata Sky's HD+ set top boxes.
+
+The S Translator supports speech to text and text-to-text translation for English, French, German, Chinese, Spanish, Portuguese, Italian, Japanese and Korean.
+
+In our usage we found that Samsung's voice assistant app, S Voice, works well with Indian accents and offers good functionality.
+
+The Group Play feature allows you to transfer and instantly view or play documents, music files, photos, and other content to other Galaxy S4 handsets with just a simple tap. All phones need to be connected to the same Wi-Fi network.
+
+But the major attraction of the Galaxy S4 is its motion and hand gesture driven controls. The Air gestures include Quick Glance that lets you glance at information like missed calls, time and unread message count when you move your hand over the phone, Air Jump that lets you move up and down web pages and emails when you move your hands, Air Browse to essentially browse the Gallery, web pages, music tracks and memo notes, Air move to move icons or S planner events with one hand while you're holding them with the other, and even accept calls with the wave of your hand. Motion gestures allow you to tilt your phone to zoom in while looking at an image or turn over the phone to mute while receiving a call. 
+
+The Smart screen features include Smart Stay which keeps the screen on as long as you're looking at it, Smart Pause that pauses a running video when you look away and Smart Scroll that scrolls webpages or emails according to the angle at which you tilt your head or the phone. 
+
+Another similar feature is Air View that lets you preview text inside emails and SMS or images inside a folder when you hover your finger over the screen. This even works for speed-dial contacts and for tracking progress bars while watching videos.
+
+It's worth pointing out that Air gestures can track the user's hand up to 7cm and only native apps support them, for the time being. We might see some developers bringing support for these gestures in the future, though.
+
+In our experience of using the phone, we observed that at times you have to try a little longer for the gestures to work. This might be because the phone's sensors take time to initialise. It does display an indicator when the phone's ready. Features like Smart Scroll are a hit and miss and don't work if you're wearing spectacles. We've said this before, the gesture controls are gimmicky at best and you'll probably not even remember them after a week or two of showing them off to your family, friends and co-workers.
+
+The phone also offers voice commands for accepting and rejecting calls, taking pictures and controlling music. In our use we observed that it worked intermittently.
+
+Camera
+The Galaxy S4 features a 13-megapixel rear camera that takes great shots in day light and artificial light. We found that pictures clicked with the phone had good amount of detail and looked very close to life with accurate colour reproduction.
+While it excels at daylight shots, low-light shots are the Galaxy S4 camera's major weakness. Pictures come out dark, distorted and noisy if it's dark. If you throw in some light and use the night mode, the camera manages to click shots that are bester but come out grainy and still can't match the low-light performance of the HTC One and the iPhone 5. That being said, the Galaxy S4 takes much better pictures than the HTC One in good lighting conditions, while it matches up with the iPhone 5, which is still one of the best camera-phones around.
+The Galaxy S4 also adds lots of new camera tricks including Cinemagram like Animated photo mode, an Eraser mode to delete moving objects from 5 consecutive photos, Drama shot that takes multiple photos of a moving object and merges them all to denote action, and Best face that allows selecting the best face shot in group photos, in addition to the usual Burst mode that takes 20 continuous shots, HDR mode and Panorama mode. It also allows you to shoot through both the front and rear lenses simultaneously and put a stamp-sized photo of yours in a photo that you're clicking with the rear camera. 
+
+We believe that the new tricks would not find much use beyond the initial phase of the consumer's purchase but the best face and eraser shot could be handy at times. We've already seen this in the Nokia Lumia phones through the implementation of lenses.
+The Galaxy S4's front camera does a decent job when it comes to video chats but takes grainy pictures indoors.
+
+The phone is capable of recording 1080p video and performs well. It also offers video stabilisation to let you take steady shots.
+
+Performance/ Battery Life
+The Samsung Galaxy S4 is powered by Samsung's Exynos 5 Octa processor which is essentially a set of two quad-core processors- a 1.2GHz Cortex A7 quad-core processor and a 1.6GHz Cortex A15 quad-core processor that work together to optimise processing. It has 2GB RAM onboard, and a PowerVR SGX 544MP chip for processing graphics. Our review unit had 16GB of expandable internal storage out of which 8.89GB was available for our use.
+
+With Android 4.2 Jelly Bean, the overall experience of navigation through the interface was extremely impressive, thanks to Project Butter and all the power under the hood. We did not experience much lag except while launching the camera app and getting back to the home screen. Other than that, we had no issue while launching apps, playing games, scrolling web pages or switching between apps. Performance wise the Galaxy S4 is a power horse, compared to the other Android flagships in the market at this point in time and even the HTC One trails behind if one looks at synthetic benchmarks.
+
+The Galaxy S4 offers Chrome in addition to the default browser. The default browser does not offer Adobe flash. It also offers a reader mode for reading text heavy web pages. 
+
+We were able to play full-HD clips, though some formats including .mov, were not supported natively (this was easily fixed by the use of third party apps). The speaker outlet on the phone delivers good quality sound at average volume levels.
+Call quality was great and the phone is able to latch on to cellular networks even in weak signal areas. 
+
+The phone lacks FM radio functionality (read here why), which will surely disappoint many, especially in our Indian audience.
+
+The Samsung Galaxy S4 comes with a 2600mAh battery, and in our usage, it lasted us a full workday. We charged the phone in the morning (at around 9am), and with medium to heavy usage, including 1-1.5 hours of phone calls, two email accounts with push notifications, playing some music, taking some photographs, Twitter notifications and WhatsApp chats, the phone lasted a good 9-10 hours. It's worth pointing out that we had turned off Wi-Fi and auto-brightness, and the phone was hooked to a 3G network with the screen brightness at the highest level. Altering these settings might help in running the phone for a longer duration, depending on your usage pattern. 
+
+Verdict
+The Samsung Galaxy S4 is undeniably the most powerful Android smartphone available in the market in terms of hardware. It's got a great camera if you discount the low-light shots, and it runs the latest version of Android. All this along with the gorgeous Super-AMOLED HD screen makes the Galaxy S4 a great package. 
+
+It's also ahead of the competition if you consider synthetic benchmarks. 
+
+Having said that, we're not really impressed with the sensor based motion and air gestures that are one of the USPs of the phone and found them to be a gimmick to pull potential customers and give them another reason to pick it up over other options. We're sure you'll not be using them when you're in a crunch situation and just need to get work done. In fact, you'll be better off disabling them. 
+
+At a price of Rs. 41,500, Samsung has priced the phone well, keeping in consideration the pricing of some of the recently launched flagships including the HTC One, its direct competitor, which, unfortunately, is still not available in the market at the time of writing this, despite the company having announced it weeks before the Galaxy S4.
+
+We prefer the One over the Galaxy S4 when it comes to design, build quality and the materials used in the construction of the phone. But without any marketing push and retail presence, it looks like the One is already lagging behind as far as capturing the market is concerned. 
+
+Combine all these factors, with Samsung's strong marketing push and retail network, and you get a winner as far as sales are concerned.
+So should you upgrade if you already own the Galaxy S III? Well, if you're someone who likes owning the best phone, no matter what, and wish to use to a smartphone that has an HD screen, we'd surely recommend that you make the switch.  However, existing Galaxy S III owners are likely to get some of the phone's software features via an update and the sensor based gimmicks are not really worth it. Also, you won't notice the power boost in day-to-day tasks. So you can perhaps skip this one and wait for the next generation Galaxy (or some other better option). 
+
+If one compares the Galaxy S4 to non-HD screen flagships, the price is a bit steep, though. You may consider other flagships like the Samsung Galaxy S III, which are now available at attractive discounts compared to their launch price. Large screen enthusiasts may also prefer the Galaxy Note II.
+
+If you're willing to look at non-Android phones, the iPhone 5 is still the best smartphone available in this price range.
