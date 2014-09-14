@@ -6,19 +6,18 @@ import com.aliasi.classify.DynamicLMClassifier;
 import com.aliasi.lm.NGramProcessLM;
 import com.aliasi.util.Files;
 import com.mindbar.scorey.metrics.Metric;
-import com.mindbar.scorey.util.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.stereotype.Service;
 
-import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.URL;
 import java.util.*;
 
 /**
  * @author mishadoff
  */
+@Service
 public class SentimentService {
     private static String[] categories = new String[]{"pos", "neg"};
     public static DynamicLMClassifier<NGramProcessLM> classifier;
@@ -26,19 +25,21 @@ public class SentimentService {
     public static HashSet<String> badWordsSet = new HashSet<String>();
     public static HashMap<String, List<String>> synonymsSet = new HashMap<String, List<String>>();
 
+    @Autowired
+    NLPService nlpService;
 
     public static void init() {
         classifier = DynamicLMClassifier.createNGramProcess(categories, 8);
     }
 
-    public static void initPosNeg() throws IOException {
+    public void initPosNeg() throws IOException {
         String goodWordsString = Files.readFromFile(new ClassPathResource("common/pos.txt").getFile(), "UTF-8");
-        String[] goodWords = StringUtils.tokenize(goodWordsString);
+        String[] goodWords = nlpService.tokenize(goodWordsString);
         for (String s : goodWords) {
             goodWordsSet.add(s);
         }
         String badWordsString = Files.readFromFile(new ClassPathResource("common/neg.txt").getFile(), "UTF-8");
-        String[] badWords = StringUtils.tokenize(badWordsString);
+        String[] badWords = nlpService.tokenize(badWordsString);
         for (String s : badWords) {
             badWordsSet.add(s);
         }
@@ -48,7 +49,7 @@ public class SentimentService {
             ArrayList<String> synonyms = new ArrayList<String>();
             try {
                 String synonymsString = Files.readFromFile(new ClassPathResource("metrics/"+key+"/synonyms.txt").getFile(), "UTF-8");
-                synonyms.addAll(Arrays.asList(StringUtils.tokenize(synonymsString)));
+                synonyms.addAll(Arrays.asList(nlpService.tokenize(synonymsString)));
             } catch (Exception e) {
                 System.out.println("can not find synonyms file from metric " + key);
             }

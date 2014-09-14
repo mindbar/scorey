@@ -1,10 +1,9 @@
 package com.mindbar.scorey.service;
 
-import com.aliasi.util.Files;
 import com.mindbar.scorey.metrics.Metric;
 import com.mindbar.scorey.model.Article;
 import com.mindbar.scorey.model.ArticleMeta;
-import com.mindbar.scorey.util.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
@@ -20,6 +19,9 @@ import java.util.Map;
  */
 @Service
 public class ArticleService {
+
+    @Autowired
+    NLPService nlpService;
 
     public List<Article> getArticlesByDevice(String device) throws Exception {
         ArrayList<Article> articles = new ArrayList<Article>();
@@ -48,8 +50,7 @@ public class ArticleService {
 
     public int[] processArticle(Article a, String category) throws IOException {
         String article = a.getText().toLowerCase();
-        String[] articleTokens = StringUtils.tokenize(article);
-        List<String> snippetWords = StringUtils.getSnippetTokens(category, articleTokens);
+        List<String> snippetWords = nlpService.getSnippetTokens(category, article);
 
         snippetWords.addAll(SentimentService.synonymsSet.get(category));
 

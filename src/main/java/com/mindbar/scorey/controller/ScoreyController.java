@@ -37,6 +37,9 @@ public class ScoreyController {
     @Autowired
     private ArticleService articleService;
 
+    @Autowired
+    private SentimentService sentimentService;
+
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index() {
         try {
@@ -52,7 +55,7 @@ public class ScoreyController {
     @PostConstruct
     public void init() {
         try {
-            SentimentService.initPosNeg();
+            sentimentService.initPosNeg();
             System.out.println(testProp);
             if (train) {
                 SentimentService.init();

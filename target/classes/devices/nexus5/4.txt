@@ -1,0 +1,85 @@
+http://bgr.com/2013/11/06/google-nexus-5-review/
+Google Nexus 5 review
+
+Remember when I said I couldn’t put Samsung’s Galaxy Note 3 down? Well, I put it down. After months of rumors, leaks and speculation, Google finally took the wraps off of its new Nexus 5 smartphone last week and Android fans were elated. The sleek new handset started selling out in mere minutes and by the end of the day, it would be weeks until new orders of some Nexus 5 builds would be dispatched. Can Google’s new Nexus phone possibly live up to all the hype that has built up over the past few months?
+
+The Nexus 5 is the first pure Google smartphone I have ever been interested enough in to actually purchase. I have used review units of every Nexus model in the past for at least a short period of time, but until now I had never bothered to purchase one for myself.
+
+Frankly, Nexus devices never really did anything for me. Stock Android is nice and Nexus devices have always been well made, but they have never been in the same league as flagship smartphones from the likes of HTC, Samsung and others. A Galaxy Nexus over a Galaxy S III? No way. A Nexus 4 over an Optimus G, a Galaxy S4 or an HTC One? Not a chance.
+
+I also like the software enhancements offered by Google’s various partners. The HTC TV app on the One coupled with the phone’s infrared blaster is outstanding, for example. Another example is Samsung’s S Pen and related software suite. Companies devote tremendous resources to enhancing Android. Sometimes they swing and miss, but sometimes it really pays off.
+
+Google’s Nexus device program has really evolved over time. The company’s early focus on specs shifted to a focus on value with the likes of the first-generation Nexus 7 tablet and the Nexus 4 smartphone, but neither device really had much to offer at the time compared to the competition. They ran stock Android, they appealed to Android enthusiasts and they were surprisingly affordable.
+
+That affordability came at a cost, though. In the case of the Nexus 4, users had to live with a handset that had lackluster specs compared to the competition. They also had to live without 4G LTE, which is unthinkable for smartphone users in many regions.
+
+The Nexus 5, however, is the total package. With Google’s new Nexus, you get a phone that is just as sleek as the competition and just as powerful as the competition for a fraction of the cost. At shockingly affordable price points of $349 (16GB) and $399 (32GB) with no service contract of any kind, there is no better value on the market right now. For a frame of reference, the HTC One costs $599.99 with no contract, Samsung’s Galaxy S4 starts at $639.99 and Apple’s iPhone 5s starts at $649.
+
+So I bought one. Here are my thoughts after spending some time with the phone:
+
+The hardware: Google’s LG-built Nexus 5 is fairly middle-of-the-road when it comes to build quality. It’s nowhere near as refined and luxurious as the HTC One or Apple’s iPhone 5s but it also doesn’t feel cheap and plasticky like a Samsung smartphone. Think about that for a moment: The $349 Nexus 5 feels far better in the hand than Samsung’s $640 flagship smartphone.
+
+LG’s design is outstanding. The Nexus 5 features a strong shape reminiscent of earlier Nexus phones, but it’s a bit more aggressive. This phone looks like it means business. The plastic on the sides and back of the device are a soft-touch rubbery material and they feel great. The material also gives the phone good grip compared to glossy plastic smartphones or even aluminum smartphones like the iPhone 5s. LG used ceramic for the power and volume buttons so they don’t feel like cheap plastic either.
+
+The weight of the Nexus 5 is on the lighter side. In fact, it feels a bit hollow to me for a phone this size. The Nexus 5 is slightly bigger than HTC’s One but it weighs 13 grams less. This is terrific if you enjoy lighter smartphones, but I prefer a phone that has a bit of heft to it.
+
+The software: Android 4.4 KitKat makes its debut on the Nexus 5 and from where most end-users sit, it is not a significant upgrade.
+
+There is plenty of new code in the latest version of Google’s operating system. In terms of user-facing features, though, KitKat and Jelly Bean are likely indistinguishable to many people.
+
+Google highlights several additions to Android 4.4 KitKat. Among them are the ability to simply speak the words “OK Google” to launch a voice search, a new immersive mode that hides menus and buttons when the user is reading a book or playing a game, faster multitasking, a unified messaging app and more. Some graphics have been redesigned as well, and the platform as a whole is generally less resource intensive.
+
+Google Now is showcased a bit more on the Nexus 5 than on other smartphones thanks to a new “Google Experience launcher” that occupies the left-most home page slot. Google Now is still one of the best things about Android, and I really like that Google made it more prominent in its latest Nexus phone.
+
+The performance: We have known for months that the Nexus 5 is a beast on paper, and it lives up to the hype.
+
+Key specs include a quad-core 2.3GHz Snapdragon 800 processor, Adreno 330 graphics and 2GB of RAM, and they combine with other elements to create an extremely fluid user experience. Jumping from app to app is a breeze, video playback is always smooth, scrolling rarely sticks and the user experience in general is a great one.
+
+Everything is fast and responsive — it’s hard to believe Google’s $349 phone is more fluid than some $600-plus phones, but that’s the price we pay with some vendors’ user interface layers.
+
+The display: It’s good, but not great.
+
+LG makes some amazing smartphone displays. In fact, the 5.2-inch “True HD” IPS+ panel on LG’s G2 is probably among the best I have seen. While the Nexus 5’s 1080p HD display takes the same number of pixels and mashes them closer together, the end result is not in line with other high-end handsets.
+
+The new Nexus phone’s Gorilla Glass 3-covered 4.95-inch full HD display features a pixel density of 445 ppi and it gets very bright, but the color reproduction isn’t terribly impressive and the contrast isn’t very good compared to phones like the Galaxy S4, iPhone 5s or LG G2. The result is a bit washed out, and it definitely doesn’t pop like the aforementioned handsets. It’s still impressive, but it’s not on par with market leaders.
+
+The size: Google’s Nexus 5 is impressively compact for a phone with a 5-inch display, thanks in no small part to the handset’s extremely narrow borders on either side of the display. The phone’s overall footprint is barely bigger than the HTC One and it’s a bit thinner as well.
+
+It’s reasonably comfortable to hold, though most people will likely have trouble using the phone with one hand. If that’s a priority for you, the Nexus 5 won’t be optimal, but phones are so massive these days that it might not matter for most users.
+
+The camera: The Nexus 5’s camera is definitely a mixed bag.
+
+On one hand, the phone’s 8-megapixel camera takes very good quality pictures in solid lighting conditions. Outside during the day, you will love the photos this phone captures. At dusk or at night, forget it. Low-light photo quality is awful and the flash doesn’t help much. Expect grainy, fuzzy photos unless you’re in a well-lit area.
+
+Compounding matters is the fact that the Nexus 5’s camera software is terrible. Seriously, it’s awful. It’s slow and clunky, the menus are unnecessarily difficult to access and navigate, options are few and far between, and I found that it often has trouble locking focus. A software update can’t come soon enough.
+
+The call quality: Voice calls are a rarity for many people these days but believe it or not, some people still use smartphones to make calls.
+
+Call quality on the Nexus 5 is mediocre at best. I often heard light static as audio was transmitted by the ear speaker and the party on the other end reported the same. Sound is also generally a bit tinny.
+
+The phone certainly usable for voice calling, but it’s not optimal. The loud speaker on the bottom isn’t very good either.
+
+The battery life: Many Android fans were saddened when the Nexus 5’s specs leaked and the phone was discovered to have a 2,300 mAh battery. They were right to be upset.
+
+Battery life is definitely one of the Nexus 5’s weakest attributes. I have only spent a few days with the phone so far but its battery has not impressed me. It struggled to carry me through a full day of moderate usage that included some email, some music streaming, plenty of Twitter checking and Feedly reading, a few phone calls, some Netflix streaming and other miscellaneous use.
+
+I’ll update this review if anything changes after more use, but I doubt it will. Plan to pick up a few extra chargers and a car charger if you buy a Nexus 5.
+
+The value: Simply put, the Nexus 5 is an unprecedented value.
+
+Google’s new Nexus handset isn’t just the best pure Google phone that has ever been made, it’s one of the best smartphones that has ever been made. And yet somehow, it’s also one of the cheapest high-end phones that has ever been made.
+
+I have discussed this several times here on BGR, but it bears repeating. For Google, the smartphone and tablet markets are a land grab. Google makes money selling ads and it needs people to use its services so it can show them those ads, and collect data to show them more relevant ads. Google needs your eyeballs in order to make money. It’s not a strategy employed by rivals such as Samsung and Apple, but it’s a good one — Google’s net profit totaled about $3 billion on nearly $15 billion in sales in the most recent quarter.
+
+The Nexus 5 will keep plenty of eyeballs glued to the Google ecosystem. It will also attract some new ones.
+
+At $349 or $399, the Nexus 5 is in a class of its own. It’s a high-end smartphone priced in line with phones that can’t even come close to competing with it. Google’s new Nexus 5 is currently cheaper than the HTC One mini ($430), the HTC Windows Phone 8X ($430), last year’s LG Optimus G ($440), last year’s Galaxy S III ($465) and the two-year-old iPhone 4s ($450). It’s pretty remarkable, actually.
+
+Bottom line — the Nexus 5 is the only smartphone Android fans should care about this holiday season.
+
+Typical consumers around the world looking for a solid smartphone have dozens of fantastic options from Samsung, HTC, Apple, LG, Sony, Nokia, BlackBerry, Motorola, Xiaomi, ZTE and other companies. But smartphone enthusiasts in the Android camp have only one option: the Nexus 5. This is it. It just doesn’t get any better.
+
+That’s not to say the Nexus 5 will only appeal to hardcore Android fans. Google’s new hero phone is a fantastic option for anyone looking for anyone looking for a powerful smartphone at an affordable price without a service contract. It’s fast, it’s sleek and it affords the best Google has to offer without any of the filler.
+
+The Nexus 5 isn’t perfect. Battery life is poor compared to comparable phones and the camera is easily among the weakest I’ve seen on a high-end phone in recent months. At $349 though? A few extra chargers and bad low-light photos are a fair price to pay for the outstanding experience Google’s latest smartphone affords.
+
