@@ -1,3 +1,5 @@
 display
 screen
 monitor
+
+video
