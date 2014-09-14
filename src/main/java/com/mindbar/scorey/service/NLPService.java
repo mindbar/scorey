@@ -61,13 +61,20 @@ public class NLPService {
 
         String[] sentences = getSentences(article);
         List<String> snippetWords = new ArrayList<String>();
-        for (String s : sentences) {
+        for (int sIndex = 0; sIndex < sentences.length; sIndex++) {
+            String s = sentences[sIndex];
             String[] tokens = tokenize(s);
             for (int j = 0; j < tokens.length; j++) {
                 String curVal = tokens[j];
                 if (curVal.equalsIgnoreCase(metric)) {
                     for (int k = 0; k < tokens.length; k++) {
                         snippetWords.add(tokens[k]);
+                    }
+                    if (sIndex + 1 < sentences.length) {
+                        String[] nextSentenceTokens = tokenize(sentences[sIndex + 1]);
+                        for (int k = 0; k < nextSentenceTokens.length; k++) {
+                            snippetWords.add(nextSentenceTokens[k]);
+                        }
                     }
                     break;
                 }
