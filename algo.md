@@ -12,7 +12,7 @@
 - Assign polarity words to each metric per category (train set):
    - `battery:positive` -> `high-capacity`, `long time`
    - `display:negative` -> `not clear`, `noisy`
-- Train binary classifier per metric on polarity words `Map<Metric, Classifier>`
+- Rule-based approach to handle `Map<Metric, Classifier>`
 
 ## Evaluation
 
@@ -25,8 +25,8 @@
 ## Fragment Extraction
 
 - Input: Metric `battery`
-- Split `Article` to tokens `List<Token>`
-- Loop tokens and if `Token` is one of the keywords for metric take its `20` surrounding tokens as fragment `Fragment`
+- Split `Article` into the tokens `List<Token>`
+- Loop tokens and if `Token` is one of the keywords for metric take this and next sentence as a `Fragment`
 - Proceed loop to get `List<Fragment>`
 
 ## Data
@@ -35,16 +35,16 @@
   - [Cnet Reviews](http://www.cnet.com) 
   - [The Verge](http://www.theverge.com/reviews)
   - [Techcrunch](http://techcrunch.com/reviews/)
-  - [Engdadget](http://www.engadget.com/)
+  - [Engadget](http://www.engadget.com/)
 - Market comments
 
 
 
 ## Improvements
 
-- Extract fragments more clever, parse sentence into the tree, take phrase or sentence
+- Extract fragments more clever, parse sentence into the tree, take specific phrase
+- PosTagging
 - Weights for the words (*screen: clear, crystal clear, super crystal clear*)
-- Rule-based approach
 - Exception rules
 - Stemming, lemmatization
 - Handle comparisons! (*Nexus5 screen is better than iPhone5*)
@@ -52,7 +52,7 @@
 
 ## Points
 
-- Aggregated score is more accurate better than based on some limited set
-- Article drills give ability to find *very* bad and *very* good articles.
+- Aggregated score is more accurate than based on some limited set
+- Articles drill give ability to find *very* bad and *very* good articles.
 - Maybe 1 negative article among 100 positives describe some really negative point *for you*
 
