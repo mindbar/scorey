@@ -82,6 +82,7 @@ public class ScoreyController {
             @RequestParam(value = "q", defaultValue = "") String queryText,
             ModelMap map) throws Exception {
         ScoreyResult result = scoreyService.process(queryText);
+        //response.addHeader("REMOTE_USER", userName);
         return result;
     }
 }
